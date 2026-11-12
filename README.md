@@ -13,3 +13,4 @@ COACHTECH 教材 Tutorial 10-4「デバッグ ハンズオン演習」で作成�
 
 ## 動作確認
 - ローカルホストにアクセスし、Web画面にて表示されることを確認しました。
+- <img width="1920" height="1128" alt="image" src="https://github.com/user-attachments/assets/960ea85c-2aeb-4070-aadb-1d3c65ddb94c" />
